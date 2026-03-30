@@ -18,3 +18,5 @@
 
 ---
 *Quick Connect VPN - 您的全球网络加速首选工具。*
+---
+🚀 **Update: 2026-03-30** - 官方最新版快连 LetsVPN 页面已上线：[https://www.letsvpns.cn/index.html](https://www.letsvpns.cn/index.html )
