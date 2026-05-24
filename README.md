@@ -26,3 +26,9 @@
 
 ---
 © 2026 快连 LetsVPN. All rights reserved.
+
+------------------
+
+# 快连 LetsVPN 官方下载
+快连 LetsVPN 是国内优化的低延迟网络工具，支持Windows/安卓/iOS全平台，无捆绑无广告。
+👉 官方正版下载：https://www.letsvpns.cn/
